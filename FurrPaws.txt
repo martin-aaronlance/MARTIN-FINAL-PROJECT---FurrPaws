@@ -1,0 +1,28 @@
+FurrPaws-Health-Monitoring-App/
+|-- app/
+|   |-- src/
+|       |-- main/
+|           |-- java/
+|               |-- com.example.furrpaws/
+|                   |-- activities/
+|                       |-- MainActivity.java
+|                       |-- AppointmentActivity.java
+|                       |-- ConsultationActivity.java
+|                   |-- adapters/
+|                       |-- PetListAdapter.java
+|                   |-- models/
+|                       |-- Pet.java
+|                   |-- services/
+|                       |-- ApiService.java
+|                   |-- utils/
+|                       |-- AppUtils.java
+|                   |-- FurrPawsApp.java
+|-- res/
+|   |-- layout/
+|       |-- activity_main.xml
+|       |-- activity_appointment.xml
+|       |-- activity_consultation.xml
+|-- gradle/
+|-- .gitignore
+|-- README.md
+|-- LICENSE
